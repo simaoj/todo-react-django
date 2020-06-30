@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Todo List
 
 Simple todo list application using Django and ReactJS.
@@ -35,3 +36,8 @@ You are going to run the application in two different terminals:
 ## Acknowledgments
 
 * Based on [this article](https://scotch.io/tutorials/build-a-to-do-application-using-django-and-react) on Scotch.io
+=======
+# todo-react-django
+
+To Do application using Django and ReactJS
+>>>>>>> 2d514c7ff07995d60ed25fe6562c6bb3c96e0943
